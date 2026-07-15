@@ -1,0 +1,8 @@
+numpy
+opencv-python
+mediapipe
+matplotlib
+scipy
+scikit-learn
+jupyter
+python-docx
